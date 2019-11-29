@@ -14,6 +14,7 @@ namespace WonderMediaProductions.WebRtc
         [JsonProperty("x")]
 		public readonly float X;
 
+/// Read only varibable Y
 		[JsonProperty("y")]
 		public readonly float Y;
 
