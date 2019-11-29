@@ -7,6 +7,7 @@ namespace WonderMediaProductions.WebRtc
 {
     public sealed class MouseMessage
     {
+        // Readonly variabl for Mouse Event
 		[JsonProperty("kind")]
         public readonly MouseEventKind Kind;
 
