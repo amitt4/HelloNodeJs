@@ -7,6 +7,7 @@ namespace WonderMediaProductions.WebRtc
 {
     public sealed class MouseMessage
     {
+        /// tedt comment
 		[JsonProperty("kind")]
         public readonly MouseEventKind Kind;
 
